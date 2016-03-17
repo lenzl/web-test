@@ -9,6 +9,7 @@ public class TestAction {
 		// TODO Auto-generated method stub
 		//push remote
 		//pull remote123 master
+		//dev to master
 	}
 
 }
