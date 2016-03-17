@@ -8,6 +8,7 @@ public class TestAction {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		//push remote
+		//pull remote
 	}
 
 }
